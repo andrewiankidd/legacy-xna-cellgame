@@ -1,0 +1,11 @@
+Professer Ratleeteetz
+Hey there you little rascal! Thanks for opening me ;)
+Ready to run around a in an unfinished game?
+Of course you are! Go get 'em ya dick!
+--end--
+[goal]
+Find and speak to Alice!
+[spawnmap]
+1880
+680
+shitsville
